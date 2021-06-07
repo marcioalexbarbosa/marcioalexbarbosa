@@ -6,7 +6,7 @@
 
 ```dart
 // dart
-const marcio = {
+Map<String, dynamic> marcio = {
   'code': ['javascript', 'typescript', 'dart', 'java', 'kotlin'],
   'technologies': {
     'backend': {
@@ -34,7 +34,7 @@ const marcio = {
   },
   'current-focus': 'swift',
   'fun-fact': 'I started programming in BASIC as a kid, '
-      'abusing GOTO which is considered harmful since forever'
+      'abusing GOTO statement which is considered harmful since forever'
 };
 ```
 <!---
