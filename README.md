@@ -5,6 +5,7 @@
 - 📫 Reach me at [Linkedin](https://www.linkedin.com/in/marcio-alexandre-barbosa-565139a/)
 
 ```dart
+// dart
 const marcio = {
   'code': ['javascript', 'typescript', 'dart', 'java', 'kotlin'],
   'technologies': {
