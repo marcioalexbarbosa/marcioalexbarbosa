@@ -22,6 +22,7 @@ Map<String, dynamic> marcio = {
     },
     'dev-ops': ['aws', 'docker🐳', 'openshift', 'kubernetes'],
     'best-practices': [
+      'design-patterns',
       'clean-code',
       'solid',
       'unit testing',
