@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcioalexbarbosa
 - 👀 I’m interested in Dart, Flutter and Kotlin
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Swift, React Native and Clojure
 - 💞️ I’m looking to collaborate on Flutter projects
 - 📫 Reach me at [Linkedin](https://www.linkedin.com/in/marcio-alexandre-barbosa-565139a/)
 
@@ -34,7 +34,7 @@ Map<String, dynamic> marcio = {
     'databases': ['mongo', 'oracle', 'sqlite', 'sql server', 'postgres'],
     'misc': ['firebase', 'lua', 'php', 'c']
   },
-  'current-focus': ['swift', 'react-native'],
+  'current-focus': ['swift', 'react-native', 'clojure'],
   'fun-fact': 'I started programming in BASIC as a kid, '
       'abusing GOTO statement which is considered harmful since forever'
 };
