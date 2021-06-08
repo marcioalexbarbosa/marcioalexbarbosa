@@ -29,13 +29,12 @@ Map<String, dynamic> marcio = {
       'functional',
       'unit-testing',
       'code-coverage',
-      'bdd',
-      'tdd',
+      'reactive'
     ],
     'databases': ['mongo', 'oracle', 'sqlite', 'sql server', 'postgres'],
     'misc': ['firebase', 'lua', 'php', 'c']
   },
-  'current-focus': 'swift',
+  'current-focus': ['swift', 'react-native'],
   'fun-fact': 'I started programming in BASIC as a kid, '
       'abusing GOTO statement which is considered harmful since forever'
 };
