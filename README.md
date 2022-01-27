@@ -18,7 +18,8 @@ Map<String, dynamic> marcio = {
       'js': ['react', 'angular', 'jquery']
     },
     'mobile': {
-      'hybrid': ['flutter']
+      'hybrid': ['flutter'],
+      'native': ['swift', 'kotlin']
     },
     'dev-ops': ['aws', 'docker🐳', 'openshift', 'kubernetes'],
     'best-practices': [
