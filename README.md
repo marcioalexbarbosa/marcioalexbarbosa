@@ -7,7 +7,7 @@
 ```dart
 // dart
 Map<String, dynamic> marcio = {
-  'code': ['javascript', 'typescript', 'dart', 'java', 'kotlin'],
+  'code': ['javascript', 'typescript', 'dart', 'swift', 'java', 'kotlin'],
   'technologies': {
     'backend': {
       'js': ['node', 'deno', 'express'],
