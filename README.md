@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcioalexbarbosa
 - 👀 I’m interested in Dart, Flutter and Swift
-- 🌱 I’m currently learning React Native and Clojure
+- 🌱 I’m currently learning Objective C
 - 💞️ I’m looking to collaborate on Flutter projects
 - 📫 Reach me at [Linkedin](https://www.linkedin.com/in/marcio-alexandre-barbosa-565139a/)
 
