@@ -21,7 +21,7 @@ Map<String, dynamic> marcio = {
       'hybrid': ['flutter'],
       'native': ['swift', 'kotlin']
     },
-    'dev-ops': ['aws', 'docker🐳', 'openshift', 'kubernetes'],
+    'cloud': ['aws', 'firebase'],
     'best-practices': [
       'design-patterns',
       'clean-code',
@@ -33,7 +33,7 @@ Map<String, dynamic> marcio = {
       'reactive'
     ],
     'databases': ['mongo', 'oracle', 'sqlite', 'sql server', 'postgres'],
-    'misc': ['firebase', 'lua', 'php', 'c']
+    'misc': ['lua', 'php', 'c']
   },
   'current-focus': ['swift', 'react-native', 'clojure'],
   'fun-fact': 'I started programming in BASIC as a kid, '
