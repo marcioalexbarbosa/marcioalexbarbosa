@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcioalexbarbosa
 - 👀 I’m interested in Dart, Flutter and Swift
-- 🌱 I’m currently learning Objective C
-- 💞️ I’m looking to collaborate on Flutter projects
+- 🌱 I’m currently learning SwiftUI
+- 💞️ I’m looking to collaborate on Flutter or iOS projects
 - 📫 Reach me at [Linkedin](https://www.linkedin.com/in/marcio-alexandre-barbosa-565139a/)
 
 ```dart
